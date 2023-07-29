@@ -1,11 +1,14 @@
-# ITA
-- 👋 Ciao, Sono @ludiocel
-- 👀 Sono uno sviluppatore
-- 🌱 Al momento sto imparando Python, Lua, C#
-- 📫 Potete contattarmi su Discord jdp#7051
+### INFO:
 
-# ENG
-- 👋 Hello, I'm @ludiocel
-- 👀 I'm a developer
-- 🌱 I am currently learning Python, Lua, C#
-- 📫 You can contact me on Discord jdp#7051
+- <code>🌍 Nationality: Italy</code><br>
+- <code>📃 Languages: JavaScript, C#, Lua, Python</code><br>
+
+### 🪪 Certificates & More: <br>
+
+- ##### <code> 📝 Certified CISCO Network Academy</code><br>
+
+### 📞 **Contacts:**<br>
+- <code>🌐 Discord Tag: **__namecall**</code><br>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=ludiocel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ludiocel)
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ludiocel&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/ludiocel)
