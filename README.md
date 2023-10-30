@@ -1,7 +1,7 @@
 ### INFO:
 
 - <code>🌍 Nationality: Italy</code><br>
-- <code>📃 Languages: JavaScript, C#, Lua, Python</code><br>
+- <code>📃 Languages: JavaScript, C#, Lua, Python, Rust</code><br>
 
 ### 🪪 Certificates & More: <br>
 
