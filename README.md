@@ -1,6 +1,7 @@
 ### INFO:
 
 - <code>📃 Programming languages: JavaScript, Typescript, C#, Lua, Python, C++</code><br>
+- <code>🕶️ This is a PRIVATE profile, almost no work will be shown in a public repository</code><br>
 
 ### 🪪 Certificates & More: <br>
 
